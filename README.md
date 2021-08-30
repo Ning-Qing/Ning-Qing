@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```
+<p style="font-size:100px">&#128512;</p>
+
 ┏┓　   ┏┓
 ┏┛┻━━━┛┻┓
 ┃　　　　　　　┃
